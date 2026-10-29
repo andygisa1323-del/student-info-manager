@@ -1,19 +1,15 @@
 # Student Information Manager
 
-A Python application that allows users to store and manage student records.
+A Python application that allows users to create, store, and manage student records.
 
-## Features
-
-- Add students
-- Search student records
-- Display information
-- Data validation
-- Object-oriented design
-
-## Technologies
-
-- Python
-- OOP
+## Concepts Demonstrated
+- Object-Oriented Programming (OOP)
+- Classes and Objects
 - Functions
-- Lists
+- Loops
+- Data Validation
 - File Handling
+
+## Files
+- student_info.py - Main application logic
+- README.md - Project documentation
